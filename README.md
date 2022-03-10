@@ -6,7 +6,7 @@ The resulting file can be linked to main for later use.
 Using:  
     bin2header readfile.bin  
 Result:  
-read file_bin.bin  
+readfile_bin.bin  
 or  
 bin2header readfile.bin writefile.h  
 Result:  
